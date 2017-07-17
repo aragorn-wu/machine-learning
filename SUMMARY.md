@@ -12,4 +12,5 @@
   * [对数几率回归](di-san-zhang-xian-xing-mo-xing/dui-shu-ji-lv-hui-gui.md)
   * [线性判别分析](di-san-zhang-xian-xing-mo-xing/xian-xing-pan-bie-fen-xi.md)
 * [第四章 决策树](di-si-zhang-jue-ce-shu.md)
+  * [基本流程](di-si-zhang-jue-ce-shu/ji-ben-liu-cheng.md)
 
