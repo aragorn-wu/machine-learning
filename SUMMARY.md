@@ -17,4 +17,5 @@
 * [第五章 神经网络](shen-jing-wang-luo.md)
   * [神经元模型](shen-jing-wang-luo/shen-jing-yuan-mo-xing-3001.md)
   * [感知机](shen-jing-wang-luo/gan-zhi-ji.md)
+  * 误差逆传播算法
 
