@@ -14,5 +14,7 @@
 * [第四章 决策树](di-si-zhang-jue-ce-shu.md)
   * [基本流程](di-si-zhang-jue-ce-shu/ji-ben-liu-cheng.md)
   * [划分选择](di-si-zhang-jue-ce-shu/hua-fen-xuan-ze.md)
-* 神经网络
+* [第五章 神经网络](shen-jing-wang-luo.md)
+  * [神经元模型](shen-jing-wang-luo/shen-jing-yuan-mo-xing-3001.md)
+  * [感知机](shen-jing-wang-luo/gan-zhi-ji.md)
 
