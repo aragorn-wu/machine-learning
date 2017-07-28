@@ -20,6 +20,6 @@
 * [第九章 聚类](di-jiu-zhang-ju-lei.md)
   * [9.1 聚类任务](di-jiu-zhang-ju-lei/91-ju-lei-ren-wu.md)
   * [9.2 性能度量](di-jiu-zhang-ju-lei/92-xing-neng-du-liang.md)
-  * 9.2 距离属性
+  * 9.3 距离属性
   * 9.4 原型聚类
 
