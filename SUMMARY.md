@@ -17,6 +17,8 @@
   * [神经元模型](shen-jing-wang-luo/shen-jing-yuan-mo-xing-3001.md)
   * [感知机](shen-jing-wang-luo/gan-zhi-ji.md)
   * 误差逆传播算法
+* [第六章 支持向量机](di-liu-zhang-zhi-chi-xiang-liang-ji.md)
+  * [6.1 间隔与支持向量](di-liu-zhang-zhi-chi-xiang-liang-ji/61-jian-ge-yu-zhi-chi-xiang-liang.md)
 * [第九章 聚类](di-jiu-zhang-ju-lei.md)
   * [9.1 聚类任务](di-jiu-zhang-ju-lei/91-ju-lei-ren-wu.md)
   * [9.2 性能度量](di-jiu-zhang-ju-lei/92-xing-neng-du-liang.md)
