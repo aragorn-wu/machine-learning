@@ -18,4 +18,5 @@
   * [感知机](shen-jing-wang-luo/gan-zhi-ji.md)
   * 误差逆传播算法
 * [第九章 聚类](di-jiu-zhang-ju-lei.md)
+  * [9.1 聚类任务](di-jiu-zhang-ju-lei/91-ju-lei-ren-wu.md)
 
